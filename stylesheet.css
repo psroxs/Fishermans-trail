@@ -1,0 +1,94 @@
+header{
+    background-color: #99BD11; 
+    width: 100%;
+    height: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    background-color: #539DBA;
+    width: 100%;
+    height: 50px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.afbeelding{
+    width: 200px;
+}
+.route{
+    width: 200px
+}
+td{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 250px;
+    height: 300px
+}
+#porto1{
+    text-align: center;
+    background-color: #66FFFF;
+}
+#porto2{
+    background-color: #66CCFF;
+}
+#porto3{
+    text-align: center;
+    background-color: #6699FF;
+}
+#porto4{
+    background-color: #6666FF;
+}
+#vila1{
+    text-align: center;
+    background-color: #CCFFFF;
+}
+#vila2{
+    background-color: #CCCCFF;
+}
+#vila3{
+    text-align: center;
+    background-color: #CC99FF;
+}
+#vila4{
+    background-color: #CC33FF
+    
+}
+#almograve1{
+    text-align: center;
+    background-color: #0099FF;
+}
+#almograve2{
+    background-color: #6666FF;
+}
+#almograve3{
+    text-align: center;
+    background-color: #009999;
+}
+#almograve4{
+    background-color: #009966
+    
+}
+#zambujeira1{
+    text-align: center;
+    background-color: #FF99FF;
+}
+#zambujeira2{
+    background-color: #FF9999;
+}
+#zambujeira3{
+    text-align: center;
+    background-color: #FF9933;
+}
+#zambujeira4{
+    background-color: #FF6600;    
+}
+
